@@ -47,7 +47,6 @@ Streamlit · Joblib
 ├── scaler.pkl              # StandardScaler for preprocessing
 ├── feature_names.pkl       # Feature column names
 ├── requirements.txt        # Dependencies
-└── runtime.txt             # Python version pin
 
 ## 📂 Dataset
 AI4I 2020 Predictive Maintenance Dataset  
